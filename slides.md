@@ -133,3 +133,79 @@ The work done $W$ is positive when the system expands against an external pressu
 
 # Bibliography
 <div id="refs"></div>
+
+---
+
+:::: {.columns}
+::: {.column width="50%"}
+### Age Distribution
+This histogram visualizes the distribution of age in the dataset.
+:::
+
+::: {.column width="50%"}
+<iframe
+  data-src="media/plots/age_distribution_histogram.html"
+  width="100%"
+  height="500px"
+  style="border:none;"
+  scrolling="no">
+</iframe>
+:::
+::::
+
+---
+
+:::: {.columns}
+::: {.column width="50%"}
+### Average Math Score by Sex
+This bar chart shows the average Math score for male and female students.
+:::
+
+::: {.column width="50%"}
+<iframe
+  data-src="media/plots/avg_math_score_by_sex_bar_chart.html"
+  width="100%"
+  height="500px"
+  style="border:none;"
+  scrolling="no">
+</iframe>
+:::
+::::
+
+---
+
+:::: {.columns}
+::: {.column width="50%"}
+### Weight Distribution by Sex
+This boxplot illustrates the distribution of weight for male and female students.
+:::
+
+::: {.column width="50%"}
+<iframe
+  data-src="media/plots/weight_distribution_by_sex_boxplot.html"
+  width="100%"
+  height="500px"
+  style="border:none;"
+  scrolling="no">
+</iframe>
+:::
+::::
+
+---
+
+:::: {.columns}
+::: {.column width="50%"}
+### Height vs. Weight by Sex
+This scatterplot explores the relationship between height and weight, with points colored by sex.
+:::
+
+::: {.column width="50%"}
+<iframe
+  data-src="media/plots/height_vs_weight_by_sex_scatterplot.html"
+  width="100%"
+  height="500px"
+  style="border:none;"
+  scrolling="no">
+</iframe>
+:::
+::::
