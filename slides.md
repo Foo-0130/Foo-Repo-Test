@@ -209,3 +209,26 @@ This scatterplot explores the relationship between height and weight, with point
 </iframe>
 :::
 ::::
+
+---
+
+## Temperature Distribution (X008)
+
+:::: {.columns}
+::: {.column width="50%"}
+### Analysis of Machine Temperature
+
+This histogram visualizes the distribution of 'Temperature' readings from the `X008` dataset. It helps to understand the central tendency, spread, and overall shape of the temperature data, which can be critical for process monitoring and quality control.
+:::
+
+::: {.column width="50%"}
+<iframe
+  data-src='media/plots/X008_temperature_histogram.html'
+  width='100%'
+  height='500px'
+  style='border:none;'
+  scrolling='no'>
+</iframe>
+:::
+
+::::
